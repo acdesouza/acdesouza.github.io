@@ -1,1 +1,7 @@
+encoding: UTF-8
+include: ['_posts']
 exclude: ['Gemfile', 'Gemfile.lock', 'README.md']
+
+markdown: rdiscount
+
+relative_permalinks: false
