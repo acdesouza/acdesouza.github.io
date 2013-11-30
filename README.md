@@ -19,3 +19,4 @@ Blog RSS Feed:    /blog/feed.xml
  * https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#wiki-links
  * http://pixelcog.com/blog/2013/jekyll-from-scratch-core-architecture/
  * http://carlboettiger.info/2012/10/23/semantic-markup-examples-for-the-lab-notebook.html
+ * http://help.disqus.com/customer/portal/articles/472138-jekyll-installation-instructions
