@@ -52,6 +52,9 @@ Separete content on categories to help search engines, and readers.
  * https://github.com/mojombo/mojombo.github.io
  * https://github.com/charliepark/charliepark.github.com
 
+### Themes
+ * http://mademistakes.com/articles/hpstr-jekyll-theme/
+
 ### Integrations and Plugins
 
 #### Disqus
