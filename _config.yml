@@ -5,3 +5,7 @@ exclude: ['Gemfile', 'Gemfile.lock', 'README.md']
 markdown: rdiscount
 
 relative_permalinks: false
+
+analytics:
+  google:
+    tracking_id: "UA-10335208-1"
