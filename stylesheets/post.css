@@ -10,3 +10,7 @@
   position: relative;
   padding: 20px;
 }
+
+section.post .tags {
+  float: right;
+}

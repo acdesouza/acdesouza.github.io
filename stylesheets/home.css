@@ -62,6 +62,15 @@ section {
   padding-bottom:50px;
 }
 
+section .tags {
+  width: 100%;
+  text-align: right;
+}
+
+section ul {
+  padding: 0;
+}
+
 footer {
   width:270px;
   float:left;

@@ -2,14 +2,18 @@
 layout: default
 title: BeyondClick Blog
 ---
-<h2>{{ page.title }}</h2>
+<h1>{{ page.title }}</h1>
 
-<ul>
+<ul class="posts">
   {% for post in site.posts %}
     <li class="post">
-      <h3><a href="{{ post.url }}" class="anchor" >{{ post.title }}</a></h3>
+      <h3><a href="{{ post.url }}" class="anchor">{{ post.title }}</a></h3>
       <p>{{ post.date | date_to_string }} | <a href="{{ post.url }}#disqus_thread"></a></p>
-      <p>{{ post.excerpt }}</p>
+      {{ post.excerpt }}
+      <p class="tags">
+        {{ post.tags | array_to_sentence_string }}
+        <img src="{{ site.url }}/assets/images/glyphicons_066_tags.png" />
+      </p>
     </li>
   {% endfor %}
 </ul>
