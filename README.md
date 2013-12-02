@@ -13,6 +13,35 @@ Blog Post:        /blog/YYYY/MM/DD/post-slug/
 Blog RSS Feed:    /blog/feed.xml
 ```
 
+## Categories
+
+Separete content on categories to help search engines, and readers.
+
+### Experience
+ * beginners
+ * skilled
+ * expert
+
+### Area
+ * user
+ * heavy-user
+ * developer
+ * dba
+ * sysadmin
+ * designer
+
+### Tool
+ * subversion
+ * git
+ * bash
+ * ruby
+ * java
+ * rails
+ * vraptor
+ * jpa
+ * hibernate
+ * ...
+
 ## Links
  * http://jekyllrb.com/
  * https://github.com/mojombo/mojombo.github.io
