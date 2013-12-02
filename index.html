@@ -6,7 +6,7 @@ title: BeyondClick Blog
 
 <ul>
   {% for post in site.posts %}
-    <li>
+    <li class="post">
       <h3><a href="{{ post.url }}" class="anchor" >{{ post.title }}</a></h3>
       <p>{{ post.date | date_to_string }} | <a href="{{ post.url }}#disqus_thread"></a></p>
       <p>{{ post.excerpt }}</p>
