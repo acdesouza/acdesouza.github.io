@@ -10,4 +10,8 @@ relative_permalinks: false
 
 analytics:
   google:
-    tracking_id: "UA-10335208-1"
+    tracking_id: UA-10335208-1
+
+comments:
+  disqus:
+    short_name: acdesouza
