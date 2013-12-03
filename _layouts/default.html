@@ -9,30 +9,23 @@
     <link rel="stylesheet" href="{{ site.url }}/stylesheets/base.css">
     <link rel="stylesheet" href="{{ site.url }}/stylesheets/home.css">
     <link rel="stylesheet" href="{{ site.url }}/stylesheets/post.css">
-    <link rel="stylesheet" href="{{ site.url }}/stylesheets/search_field.css">
     <link rel="stylesheet" href="{{ site.url }}/stylesheets/pygment_trac.css">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
+
   </head>
   <body>
     <div class="wrapper">
       <header>
         <h1><a href="{{ site.url }}/">BeyondClick</a></h1>
         <p>Desenvolvimento de sistemas além do Click…</p>
-        <div class="form-item form-type-textfield form-item-search-block-form simple-google-search">
-          <form action="http://google.ch/search" method="get">
-            <fieldset role="search">
-              <input type="hidden" name="q" value="site:{{ site.host }}" />
-              <input class="search form-text" type="search" name="q" results="0" placeholder="Buscar no site" value="" id="google-search" title="Buscar no site"/>
-            </fieldset>
-          </form>
-        </div>
+        <gcse:searchbox></gcse:searchbox>
       </header>
 
       <section>
-
+        <gcse:searchresults></gcse:searchresults>
         {{ content }}
       </section>
 
@@ -47,5 +40,6 @@
     </div>
 
     {% include analytics-providers/google %}
+    {% include search-providers/google_cse.html %}
   </body>
 </html>

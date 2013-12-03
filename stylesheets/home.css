@@ -56,6 +56,10 @@ header ul a strong {
   color:#222;
 }
 
+header table.gsc-search-box td {
+  vertical-align: top !important;
+}
+
 section {
   width:500px;
   float:right;
