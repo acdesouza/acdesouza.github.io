@@ -26,19 +26,17 @@ comments: true
 
       <section class="post">
         <h1>{{ page.title }}</h1>
-        {% if page.comments %}
-          <p>
+        <div class="meta">
+          <p class="author">
             {{ page.date | date: "%d %b %Y"}} &#8226;
             {{ site.author }}
-            {% if page.tags %}
-            <span class="tags">
-              <img src="{{ site.url }}/assets/images/glyphicons_066_tags.png" />
-              {{ page.tags | array_to_sentence_string }}
-            </span>
-            {% endif %}
           </p>
-        {% endif %}
-
+          {% if page.tags %}
+          <p class="tags">
+            {{ page.tags | array_to_sentence_string }}
+          </p>
+          {% endif %}
+        </div>
         <hr />
 
         {{ content }}

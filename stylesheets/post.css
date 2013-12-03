@@ -11,6 +11,18 @@
   padding: 20px;
 }
 
-section.post .tags {
+section.post div.meta {
+  display: inline-block;
+  width: 100%;
+}
+
+section.post .meta .author {
+  width: 50%;
+  float: left;
+  display: inline;
+}
+section.post .meta .tags {
+  width: 50%;
   float: right;
+  display: inline;
 }

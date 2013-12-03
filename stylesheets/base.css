@@ -107,6 +107,14 @@ hr {
   margin:0 0 20px;
 }
 
-.tags img {
-  width: 14px;
+.tags {
+  text-align: right;
+
+  /* Tag icon */
+  background-image: url(/assets/images/glyphicons_066_tags.png);
+  background-repeat: no-repeat;
+  background-size: 14px;
+  background-position: right center;
+  padding-right: 21px;
+  margin-left: -21px;
 }
