@@ -1,66 +1,35 @@
 ---
+layout: base
 comments: true
 ---
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>{{ page.title }}</title>
+<header>
+  <h1><a href="{{ site.url }}/">BeyondClick</a></h1>
+  <p>Desenvolvimento de sistemas além do Click…</p>
+</header>
 
+<section class="post">
+  <h1>{{ page.title }}</h1>
+  <div class="meta">
+    <p class="author">
+      {{ page.date | date: "%d %b %Y"}} &#8226;
+      {{ site.author }}
+    </p>
+    {% if page.tags %}
+    <p class="tags">
+      {{ page.tags | array_to_sentence_string }}
+    </p>
+    {% endif %}
+  </div>
+  <hr />
 
-    <link rel="stylesheet" href="{{ site.url }}/stylesheets/base.css">
-    <link rel="stylesheet" href="{{ site.url }}/stylesheets/pygment_trac.css">
-    <link rel="stylesheet" href="{{ site.url }}/stylesheets/post.css">
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-  </head>
-  <body>
-    <div class="wrapper">
-      <header>
-        <h1><a href="{{ site.url }}/">BeyondClick</a></h1>
-        <p>Desenvolvimento de sistemas além do Click…</p>
-      </header>
+  {{ content }}
+</section>
 
-      <section class="post">
-        <h1>{{ page.title }}</h1>
-        <div class="meta">
-          <p class="author">
-            {{ page.date | date: "%d %b %Y"}} &#8226;
-            {{ site.author }}
-          </p>
-          {% if page.tags %}
-          <p class="tags">
-            {{ page.tags | array_to_sentence_string }}
-          </p>
-          {% endif %}
-        </div>
-        <hr />
-
-        {{ content }}
-      </section>
-
-      <section class="comments">
-        {% if page.comments %}
-          <div id="disqus_thread"></div>
-          {% include comments_providers/disqus module="embed" %}
-          <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-          <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
-        {% endif %}
-      </section>
-
-      <footer>
-        <p><small>
-          <a href="https://github.com/acdesouza" target="_github">Github</a> |
-          <a href="https://twitter.com/acdesouza" target="_twitter">Twitter</a> |
-          <a href="http://br.linkedin.com/in/acdesouza" target="_linkedin">LinkedIn</a>
-        </small></p>
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
-      </footer>
-    </div>
-
-    {% include analytics-providers/google %}
-  </body>
-</html>
+<section class="comments">
+  {% if page.comments %}
+    <div id="disqus_thread"></div>
+    {% include comments_providers/disqus module="embed" %}
+    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+  {% endif %}
+</section>

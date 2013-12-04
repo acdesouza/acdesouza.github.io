@@ -1,7 +1,7 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
   <head>
-    <meta charset="utf-8" />
+    <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="chrome=1" />
 
     <title>{{ page.title }}</title>
@@ -19,22 +19,7 @@
   </head>
   <body>
     <div class="wrapper">
-      <header>
-        <h1><a href="{{ site.url }}/">BeyondClick</a></h1>
-        <p>Desenvolvimento de sistemas além do Click…</p>
-        <nav>
-          <ul>
-            <li><a href="{{ site.url }}/">Blog</a></li>
-            <li><a href="{{ site.url }}/about">About</a></li>
-          </ul>
-        </nav>
-        <gcse:searchbox></gcse:searchbox>
-      </header>
-
-      <section>
-        <gcse:searchresults></gcse:searchresults>
-        {{ content }}
-      </section>
+      {{ content }}
 
       <footer>
         <p><small>
@@ -50,3 +35,4 @@
     {% include search-providers/google_cse.html %}
   </body>
 </html>
+
