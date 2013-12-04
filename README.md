@@ -61,3 +61,5 @@ Separete content on categories to help search engines, and readers.
 #### Disqus
  * http://help.disqus.com/customer/portal/articles/472138-jekyll-installation-instructions
 
+#### Atom Feeds
+ * http://pixelcog.com/blog/2013/jekyll-from-scratch-core-architecture/#rss_and_atom_feeds
