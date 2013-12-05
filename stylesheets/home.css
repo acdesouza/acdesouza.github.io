@@ -75,6 +75,10 @@ section ul {
   padding: 0;
 }
 
+section ul li {
+  list-style: none;
+}
+
 footer {
   width:270px;
   float:left;
