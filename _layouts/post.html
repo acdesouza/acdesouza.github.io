@@ -7,22 +7,24 @@ comments: true
   <p>Desenvolvimento de sistemas além do Click…</p>
 </header>
 
-<section class="post">
-  <h1>{{ page.title }}</h1>
+<section class="post" itemscope itemtype="http://schema.org/Article">
+  <h1 itemprop="name">{{ page.title }}</h1>
   <div class="meta">
-    <p class="author">
-      {{ page.date | date: "%d %b %Y"}} &#8226;
-      {{ site.author }}
-    </p>
+    <span itemprop="datePublished" content="{{ page.date | date: "%Y-%m-%d"}}">{{ page.date | date: "%d %b %Y"}}</span> &#8226;
+    By <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <span itemprop="name">{{ site.author }}</span>
+      </span>
     {% if page.tags %}
-    <p class="tags">
+    <span class="tags" itemprop="keywords">
       {{ page.tags | array_to_sentence_string }}
-    </p>
+    </span>
     {% endif %}
   </div>
   <hr />
 
-  {{ content }}
+  <div class="post-body" itemprop="articleBody">
+    {{ content }}
+  </div>
 </section>
 
 <section class="comments">
