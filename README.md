@@ -31,6 +31,7 @@ Separete content on categories to help search engines, and readers.
  * designer
 
 ### Tool
+ * agile
  * subversion
  * git
  * bash
