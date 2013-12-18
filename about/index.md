@@ -1,5 +1,5 @@
 ---
-permalink: /about_bkp/
+permalink: /about/
 layout: home
 title: Sobre
 comments: true
