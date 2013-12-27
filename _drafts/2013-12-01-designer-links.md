@@ -14,6 +14,9 @@ Não tinha onde colocar isso...
 [Color Scheme Designer](http://colorschemedesigner.com)
 [4 UX mistakes that are killing your conversions](http://www.webdesignerdepot.com/2013/12/4-ux-mistakes-that-are-killing-your-conversions/)
 
+[Icon Finder](https://www.iconfinder.com)
+[Icon Archive](http://www.iconarchive.com/)
+
 
 ## Sobre layout
 
