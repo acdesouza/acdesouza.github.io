@@ -12,6 +12,7 @@ Não tinha onde colocar isso...
 [psicologia das cores](http://viverdeblog.com/psicologia-das-cores)
 [Color Template](http://www.rocket-design.fr/color-template)
 [Color Scheme Designer](http://colorschemedesigner.com)
+[4 UX mistakes that are killing your conversions](http://www.webdesignerdepot.com/2013/12/4-ux-mistakes-that-are-killing-your-conversions/)
 
 
 ## Sobre layout
