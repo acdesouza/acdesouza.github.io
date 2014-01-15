@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Verifique o que esotu fazendo, não como!
+title: Verifique o que estou fazendo, não como!
 tags:
 - beginners
 - developer
