@@ -66,3 +66,7 @@ Separete content on categories to help search engines, and readers.
  * https://github.com/coyled/coyled.com
  * https://github.com/snaptortoise/jekyll-rss-feeds
  * http://pixelcog.com/blog/2013/jekyll-from-scratch-core-architecture/#rss_and_atom_feeds
+
+#### Sitemaps
+ * Why submit a sitemap to Google: https://support.google.com/webmasters/answer/156184?hl=en
+ * http://davidensinger.com/2013/03/generating-a-sitemap-in-jekyll-without-a-plugin
