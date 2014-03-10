@@ -21,6 +21,7 @@ No momento que comecei a escrever isso:
 
 Desde então, tenho levantado informações sobre a computação desta época.
 Até me deparar com a apresentação de [Bred Victor](http://worrydream.com/#!/cv/bret_victor_resume.pdf), Mestre em Engenharia Elétrica por Berkeley, fez, em Julho deste ano(2013) uma palestra sobre <a title="O Futuro da Programação" href="http://vimeo.com/71278954">o futuro da programação, do ponto de vista de um acadêmico em 1973</a>
+Mimimi, mas isso é acadêmico, não dá pra usar no dia-dia. Ok. Então pode me explicar isso? [Introduction to the Wolfram Language](http://www.youtube.com/watch?v=_P9HqHVPeik)
 
 Pretendo começar a escrever sobre como a faculdade deveria ser. E, se tudo der certo, um dia abro um instituição de ensino que aplique minha visão.
 
@@ -75,6 +76,7 @@ Pretendo começar a escrever sobre como a faculdade deveria ser. E, se tudo der 
     * perform insufficient testing
 	* Associar o negócio do desenvolvimento com um restaurante e escrever um livro
     * [100 Curse Free Lessons From Gordon Ramsay On Building Great Software](http://highscalability.com/blog/2013/8/12/100-curse-free-lessons-from-gordon-ramsay-on-building-great.html)
+  * http://www.slideshare.net/josenaldomatos/programao-orientada-a-gambiarra-30097904
 
 ## Programação 000 - Elixir
 
