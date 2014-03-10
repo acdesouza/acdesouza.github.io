@@ -1,3 +1,7 @@
+.wrapper {
+  max-width:960px;
+}
+
 header {
   width:20em;
   float:left;
