@@ -24,3 +24,13 @@ http://blog.codeclimate.com/blog/2013/10/09/rails-testing-pyramid/
 - Ou, isso: http://api.rubyonrails.org/classes/ActionDispatch/IntegrationTest.html
 - Não!
 - :/
+
+
+# #Protip s de quem é mais famoso do que eu:
+
+http://stackoverflow.com/questions/153234/how-deep-are-your-unit-tests/153565#153565
+http://37signals.com/svn/posts/3159-testing-like-the-tsa
+https://semaphoreapp.com/blog/2014/01/14/rails-testing-antipatterns-fixtures-and-factories.html
+http://6brand.com/time-your-rails-tests.html
+http://stackoverflow.com/questions/3663075/speeding-up-rspec-tests-in-a-large-rails-application
+http://www.rbcs-us.com/documents/Why-Most-Unit-Testing-is-Waste.pdf
