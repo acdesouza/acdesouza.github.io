@@ -23,6 +23,7 @@ Dito isso, segue meu caminho das pedras:
  * [Programming Ruby](http://pragprog.com/book/ruby/programming-ruby): Vai te introduzir na linguagem.
  * [Ruby Warrior](https://www.bloc.io/ruby-warrior): Mesma idéia do Blocky e do Squeak, mas usando a linguagem Ruby, desta vez. Acho interessante ver este, depois de ler o livro de Ruby, porque você já terá sido apresentado aos conceitos da linguagem.
  * [Growing Object-Oriented Software, Guided by Tests](http://www.amazon.com.br/dp/B002TIOYVW): Primeira coisa que você deveria aprender, depois de programar, é como validar se seu programa funciona como você espera. Os exemplos estão escritos na linguagem Java, mas é fácil de entender.
+ * [W3C HTML](http://www.w3.org/community/webed/wiki/HTML): Se você vai fazer aplicações basseadas na Web. É importante ter uma idéia de como fazer uma página Web. Nesta página procure: HTML Educational material.
  * [Agile Web Development with Rails 4](http://pragprog.com/book/rails4/agile-web-development-with-rails-4): Aqui você vai construir uma aplicativo web de e-commerce usando a linguagem Ruby e o framework Rails. Além de aprender o framework, o livro é útil por sugerir uma forma de trabalho para o programador.
  * [Rails for Zombies](http://railsforzombies.org/): Então, mesmo esquema de aprender com um joguinho. Neste caso, aprender Rails com a temática Zombies :)
  * [Javascript: The good parts](http://www.amazon.com.br/dp/B0026OR2ZY): Vai ensinar a escrever código JavaScript, a única linguagem que roda no browser, que cause menos problemas para manter e evoluir.
