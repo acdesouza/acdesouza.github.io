@@ -10,6 +10,8 @@ Neste exemplo explicarei como configurar uma aplicação web para ser
 autenticada pelo Container Web, que neste texto será o Tomcat.
 Caso você use outro, dá olhada em como fazer um Realm nele.
 
+ATUALIZADO para o [Tomcat 8](http://tomcat.apache.org/tomcat-8.0-doc/index.html)
+
 Vou aproveitar o post do Urubatan ensinando como fazer um login com JSF para explicar como delegar, para o container web, o serviço de autenticação e autorização.
 
 Ah?! Como assim, o que é um Realm?

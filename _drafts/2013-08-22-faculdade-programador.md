@@ -27,6 +27,8 @@ Pretendo começar a escrever sobre como a faculdade deveria ser. E, se tudo der 
 
 # Guia para o Programa do curso e bibliografia
 
+http://www.akitaonrails.com/2014/05/02/off-topic-carreira-em-programacao-codificar-nao-e-programar#.U2Pwb61dVy9
+
 ## Introdução a computação
 
   * O que é um computador? Mostrar um PC por dentro como ele funciona e explicar a arquitetura(Citar a arquitetura de von Neumann - Processador --- Memória)
@@ -43,7 +45,7 @@ Pretendo começar a escrever sobre como a faculdade deveria ser. E, se tudo der 
     evolui para um formato de descrição de metas a serem alcançadas.
     Deixando o passo a passo ser descoberto pela máquina.
     * Apresentar Prolog, como exemplo
-  * [Gerry Sussman -- We Really Don't Know How To Compute!](http://www.infoq.com/presentations/We-Really-Dont-Know-How-To-Compute)
+  * [Gerald Jay Sussman -- We Really Don't Know How To Compute!](http://www.infoq.com/presentations/We-Really-Dont-Know-How-To-Compute)
   * (Macros no lugar de compiladores)[http://jlongster.com/Stop-Writing-JavaScript-Compilers--Make-Macros-Instead]
 	* Mostrar a evolução do Eniac, até o Smalltalk
 	* Mostrar Smalltalk. Todo o ambiente, e sempre citar o quando foi feito. E, por quem.
@@ -76,13 +78,19 @@ Pretendo começar a escrever sobre como a faculdade deveria ser. E, se tudo der 
     * perform insufficient testing
 	* Associar o negócio do desenvolvimento com um restaurante e escrever um livro
     * [100 Curse Free Lessons From Gordon Ramsay On Building Great Software](http://highscalability.com/blog/2013/8/12/100-curse-free-lessons-from-gordon-ramsay-on-building-great.html)
+    * [Boring Systems Build Badass Businesses](https://devopsu.com/blog/boring-systems-build-badass-businesses/)
   * http://www.slideshare.net/josenaldomatos/programao-orientada-a-gambiarra-30097904
+  * Simplesmente, não fazemos idéia do que estamos fazendo
+    * http://pindancing.blogspot.com.au/2009/09/let-agile-fad-flow-by.html
+    * http://pragdave.me/blog/2014/03/04/time-to-kill-agile/
+    * http://highscalability.com/blog/2014/4/3/leslie-lamport-to-programmers-youre-doing-it-wrong.html
 
 ## Programação 000 - Elixir
 
   * [Programming Elixir](http://pragprog.com/book/elixir/programming-elixir)
   * Mais parecido com algo que as pessoas já viram: Funções matemáticas
   * Introduz poucos conceitos
+  * http://www.buildyourownlisp.com/contents
 
 ## Programação 001 - Smalltalk
 
@@ -103,6 +111,28 @@ Pretendo começar a escrever sobre como a faculdade deveria ser. E, se tudo der 
     * [Writing Sensible Tests for Happiness](http://fredwu.me/post/59395419899/writing-sensible-tests-for-happiness)
     * [A Guide for Writing Maintainable Rails Tests](http://littlelines.com/blog/2013/12/17/a-guide-for-writing-maintainable-rails-tests)
 
+## Verificação e validação
+
+### Validação
+  * http://www.rbcs-us.com/documents/Why-Most-Unit-Testing-is-Waste.pdf
+  * http://david.heinemeierhansson.com/2014/tdd-is-dead-long-live-testing.html
+  * http://david.heinemeierhansson.com/2014/test-induced-design-damage.html
+  * https://www.facebook.com/notes/kent-beck/rip-tdd/750840194948847
+  * http://david.heinemeierhansson.com/2014/slow-database-test-fallacy.html
+  * https://www.destroyallsoftware.com/blog/2014/tdd-straw-men-and-rhetoric
+
+  * https://twitter.com/HashNuke/status/461507198237949952
+  * https://twitter.com/KentBeck/status/461175937892356096
+  * https://twitter.com/dhh/status/461491174751342592
+  * https://twitter.com/unclebobmartin/status/461473097238204416
+  * https://twitter.com/martinfowler/status/461517619066335232
+  * https://twitter.com/dhh/status/461491858066403329
+
 ## Arquitetura de computadores
 
  * http://www.extremetech.com/extreme/171678-intel-unveils-72-core-x86-knights-landing-cpu-for-exascale-supercomputing?utm_medium=referral&amp;utm_source=t.co</li>
+ * http://www.qualcomm.com/media/blog/2014/04/07/introducing-snapdragon-810-and-808-processors-ultimate-connected-computing
+ * http://highscalability.com/blog/2014/5/1/paper-can-programming-be-liberated-from-the-von-neumann-styl.html
+
+## Web
+ * http://www.mysliderule.com/web-dev

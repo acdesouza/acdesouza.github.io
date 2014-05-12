@@ -21,3 +21,4 @@ Não tinha onde colocar isso...
 ## Sobre layout
 
 [why cards are the future of the web](http://insideintercom.io/why-cards-are-the-future-of-the-web/)
+[Creating a Killer Style Guide](http://zurb.com/university/library/31)
