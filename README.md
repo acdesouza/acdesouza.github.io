@@ -62,6 +62,11 @@ Separete content on categories to help search engines, and readers.
 #### Disqus
  * http://help.disqus.com/customer/portal/articles/472138-jekyll-installation-instructions
 
+#### Webmention and Pingback
+ * http://webmention.io/
+ * https://github.com/aaronpk/webmention.io
+ * http://voxpelli.com/2013/12/webmentions-for-static-pages/
+
 #### Atom Feeds
  * https://github.com/coyled/coyled.com
  * https://github.com/snaptortoise/jekyll-rss-feeds
