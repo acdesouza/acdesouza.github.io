@@ -29,6 +29,9 @@ Dito isso, segue meu caminho das pedras:
  * [Javascript: The good parts](http://www.amazon.com.br/dp/B0026OR2ZY): Vai ensinar a escrever código JavaScript, a única linguagem que roda no browser, que cause menos problemas para manter e evoluir.
  * [Server Setups For Your Web Application](https://www.digitalocean.com/community/articles/5-common-server-setups-for-your-web-application): Aqui você vai ter uma idéia superficial sobre o que vai precisar estudar para colocar uma aplicação web em produção.
 
+Bônus!
+ * [Code Combat](http://codecombat.com/): Aprenda mais de uma linguagem com o esquema de jogos
+
 Ao final dessa linha de estudo, espero, que você tenha conhecimento suficiente para começar a traçar o seu próprio caminho.
 
 Pretendo atualizar esse texto, caso eu veja algum livro me chame atenção o suficiente, para eu defendê-lo como básico. Por exemplo, quando encontrar um sobre banco de dados relacionais que use, preferencialmente, o SQLite, PostgreSQL ou MySQL nos exemplos.
