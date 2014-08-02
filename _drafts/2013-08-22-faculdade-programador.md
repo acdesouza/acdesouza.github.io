@@ -28,9 +28,11 @@ Pretendo começar a escrever sobre como a faculdade deveria ser. E, se tudo der 
 # Guia para o Programa do curso e bibliografia
 
 http://www.akitaonrails.com/2014/05/02/off-topic-carreira-em-programacao-codificar-nao-e-programar#.U2Pwb61dVy9
+http://bsi.uniriotec.br/disciplinas/as.html
 
 ## Introdução a computação
 
+  * Como chegamos no computador? http://meiobit.com/292520/ibm-e-apple-anunciam-parceria/
   * O que é um computador? Mostrar um PC por dentro como ele funciona e explicar a arquitetura(Citar a arquitetura de von Neumann - Processador --- Memória)
   * Apresenta o computador como uma ferramenta multi-uso e multi-propósito
   * Assumir que não sabemos a melhor forma de usá-lo: Demoramos umas décadas até ligarmos uma tela, por exemplo
