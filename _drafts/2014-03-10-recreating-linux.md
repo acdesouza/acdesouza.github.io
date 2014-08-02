@@ -61,6 +61,10 @@ Seria possível partir daqui?
  * http://www.erlang.org/faq/implementations.html
  * http://elixir-lang.org/
 
+== FreeRTOS
+http://pt.slideshare.net/sergioprado77/treinamento-freertos
+http://sergioprado.org/mbed-integrando-o-freertos-em-um-cortex-m3/
+
 
 Ou, talvez, dar uma chance ao Minix3:
 http://www.cs.vu.nl/~ast/reliable-os/
