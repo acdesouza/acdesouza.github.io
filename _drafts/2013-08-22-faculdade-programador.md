@@ -103,6 +103,7 @@ http://bsi.uniriotec.br/disciplinas/as.html
     * protection
     * hiding of state-process
     * extreme late-binding(Late binding, or dynamic binding, is a computer programming mechanism in which the method being called upon an object is looked up by name at runtime)
+  * [Why is Object-Oriented Programming Useful? (With a Role Playing Game Example)](http://inventwithpython.com/blog/2014/12/02/why-is-object-oriented-programming-useful-with-an-role-playing-game-example/)
   * [You Could Invent Object-Oriented Programming](http://robots.thoughtbot.com/you-could-invent-objectoriented-programming)
     * [REPL Scheme](http://repl.it/languages/Scheme/)
   * [A conversation with Alan Kay](http://queue.acm.org/detail.cfm?id=1039523)
@@ -157,6 +158,7 @@ http://bsi.uniriotec.br/disciplinas/as.html
  * http://www.extremetech.com/extreme/171678-intel-unveils-72-core-x86-knights-landing-cpu-for-exascale-supercomputing
  * http://www.qualcomm.com/media/blog/2014/04/07/introducing-snapdragon-810-and-808-processors-ultimate-connected-computing
  * http://highscalability.com/blog/2014/5/1/paper-can-programming-be-liberated-from-the-von-neumann-styl.html
+ * http://www.hpl.hp.com/research/systems-research/themachine/
 
 ## Organização de código
 
