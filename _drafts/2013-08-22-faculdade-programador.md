@@ -206,6 +206,8 @@ http://bsi.uniriotec.br/disciplinas/as.html
 ## Segurança de dados
 
   * http://codahale.com/how-to-safely-store-a-password/
+  * [Undeterred by its own complete ignorance about how crypto works, @TheEconomist joins those advocating magical keys](https://twitter.com/segphault/status/556925012465446912?s=09)
+    * Criptografia não é como uma fechadura de uma porta.
 
 ## Avaliação de desempenho
 
