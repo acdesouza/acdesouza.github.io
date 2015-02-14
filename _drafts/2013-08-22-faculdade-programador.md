@@ -10,20 +10,27 @@ Como deveria ser a faculdade, na minha visão.
 No momento que comecei a escrever isso:
   * estou em 2013;
   * me formei em 2002, na [UniverCidade](http://www.univercidade.br);
-  * Fiz uma pós, <a title="IS-Expert, NCE - UFRJ" href="http://portal.nce.ufrj.br/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=78&amp;Itemid=59">IS-Expert, na UFRJ/NCE</a> em 2004, desesti por ter que escrever uma monografia e o trabalho estava me consumindo.
+  * Fiz uma pós, <a title="IS-Expert, NCE - UFRJ" href="http://portal.nce.ufrj.br/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=78&amp;Itemid=59">IS-Expert, na UFRJ/NCE</a> em 2004,
+    desesti por ter que escrever uma monografia e o trabalho estava me consumindo.
   * Retomei a pós em 2012. Quase desisti. Na época estava estudando Smalltalk,
     por conta própria, e acabei esbarrando em vários assuntos da época, isto é,
     decadas de 60 à 80. Respirei fundo, parei meus estudos, terminei a
     monografia e conclui a pós.
   * Os estudos sobre as décadas de 60 à 80 me inspiraram a refletir sobre
-    a formação de um programador. E, tive a idéia de abrir uma faculdade que
+    a formação de um programador. E, tive a idéia de descrever uma faculdade que
     ensinasse a minha visão sobre como um programador deveria ser formado.
 
 Desde então, tenho levantado informações sobre a computação desta época.
-Até me deparar com a apresentação de [Bred Victor](http://worrydream.com/#!/cv/bret_victor_resume.pdf), Mestre em Engenharia Elétrica por Berkeley, fez, em Julho deste ano(2013) uma palestra sobre <a title="O Futuro da Programação" href="http://vimeo.com/71278954">o futuro da programação, do ponto de vista de um acadêmico em 1973</a>
-Mimimi, mas isso é acadêmico, não dá pra usar no dia-dia. Ok. Então pode me explicar isso? [Introduction to the Wolfram Language](http://www.youtube.com/watch?v=_P9HqHVPeik)
+Até me deparar com a apresentação de [Bred Victor](http://worrydream.com/#!/cv/bret_victor_resume.pdf),
+Mestre em Engenharia Elétrica por Berkeley, fez, em Julho deste ano(2013) uma palestra sobre
+<a title="O Futuro da Programação" href="http://vimeo.com/71278954">o futuro da programação</a>, do ponto de vista de um acadêmico em 1973.
 
-Pretendo começar a escrever sobre como a faculdade deveria ser. E, se tudo der certo, um dia abro um instituição de ensino que aplique minha visão.
+- "Mimimi, mas isso é acadêmico, não dá pra usar no dia-dia."
+
+Ok. Então pode me explicar isso? [Introduction to the Wolfram Language](http://www.youtube.com/watch?v=_P9HqHVPeik)
+
+Pretendo começar a escrever sobre como a faculdade deveria ser. E, se tudo der certo,
+um dia abro um instituição de ensino que aplique minha visão.
 
 # Guia para o Programa do curso e bibliografia
 
