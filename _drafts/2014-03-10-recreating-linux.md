@@ -57,9 +57,13 @@ http://www.infoq.com/news/2010/07/objects-smalltalk-erlang
 http://www.erlang.org/faq/academic.html#id56929
 
 Seria possível partir daqui?
- * http://www.freertos.org/
- * http://www.erlang.org/faq/implementations.html
- * http://elixir-lang.org/
+  * http://www.freertos.org/
+  * http://www.erlang.org/faq/implementations.html
+  * http://elixir-lang.org/
+  * http://nerves-project.org/
+
+ Exemplos de sistemas(não SOs) que já pensaram no assunto:
+  * http://www.techworld.com/apps/how-bet365-solved-reliability-scalability-by-swapping-java-for-erlang-3600737/
 
 == FreeRTOS
 http://pt.slideshare.net/sergioprado77/treinamento-freertos

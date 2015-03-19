@@ -80,6 +80,9 @@ http://bsi.uniriotec.br/disciplinas/as.html
     * http://imgur.com/a/Fh0zu
   * [A importância de escolher uma linguagem que defina o curso de programação](http://www.cs.berkeley.edu/~bh/proglang.html)
   * [Structure and Interpretation of Computer Programs](http://xuanji.appspot.com/isicp/)
+    * http://www.reddit.com/r/programming/comments/r1wj/demise_of_6001_legendary_computer_science_class
+    * http://vedantk.tumblr.com/post/8424437797/sicp-is-under-attack-updated
+    * https://news.ycombinator.com/item?id=2843715
 
 
 ## Programação 101 - Elixir
@@ -93,6 +96,7 @@ http://bsi.uniriotec.br/disciplinas/as.html
   * [Design of LISP-based processors](http://dspace.mit.edu/bitstream/handle/1721.1/5731/AIM-514.pdf)
   * http://www.buildyourownlisp.com/contents
   * https://gitorious.org/lambdapi
+  * https://twitter.com/joeerl/status/577584432183451648
 
 
 ## Programação 102 - Smalltalk
@@ -155,25 +159,29 @@ http://bsi.uniriotec.br/disciplinas/as.html
 
 ## Arquitetura de computadores
 
- * http://www.extremetech.com/extreme/171678-intel-unveils-72-core-x86-knights-landing-cpu-for-exascale-supercomputing
- * http://www.qualcomm.com/media/blog/2014/04/07/introducing-snapdragon-810-and-808-processors-ultimate-connected-computing
- * http://highscalability.com/blog/2014/5/1/paper-can-programming-be-liberated-from-the-von-neumann-styl.html
- * http://www.hpl.hp.com/research/systems-research/themachine/
+  * http://www.extremetech.com/extreme/171678-intel-unveils-72-core-x86-knights-landing-cpu-for-exascale-supercomputing
+  * http://www.qualcomm.com/media/blog/2014/04/07/introducing-snapdragon-810-and-808-processors-ultimate-connected-computing
+  * http://highscalability.com/blog/2014/5/1/paper-can-programming-be-liberated-from-the-von-neumann-styl.html
+  * http://www.hpl.hp.com/research/systems-research/themachine/
+
+### Storage
+  * https://modelviewculture.com/pieces/i-can-text-you-a-pile-of-poo-but-i-cant-write-my-name
 
 ## Organização de código
 
- * Sobre a importância de separar as responsabilidades de cada grupo de artefatos do projeto
-   * Responda a pergunta: Se a regra X mudar, onde tenho que mexer? E, se mudar a forma de apresentar o dado Y?
-   * [Single Responsibility Principle](http://www.objectmentor.com/resources/articles/srp.pdf)
- * [Understanding Model-View-Controller](http://blog.codinghorror.com/understanding-model-view-controller/)
- * [MVC](http://st-www.cs.illinois.edu/users/smarch/st-docs/mvc.html)
- * [A cookbook fo using the Model-View-Controller User Interface paradigm in Smalltalk-80](http://www.ics.uci.edu/~redmiles/ics227-SQ04/papers/KrasnerPope88.pdf)
- * [A Generation Lost in the Bazaar](https://queue.acm.org/detail.cfm?id=2349257&ref=fullrss)
- * [Is it really "Complex"? Or did we just make it "Complicated"?](https://www.youtube.com/watch?v=ubaX1Smg6pY&=)
+  * Sobre a importância de separar as responsabilidades de cada grupo de artefatos do projeto
+    * Responda a pergunta: Se a regra X mudar, onde tenho que mexer? E, se mudar a forma de apresentar o dado Y?
+    * [Single Responsibility Principle](http://www.objectmentor.com/resources/articles/srp.pdf)
+  * Composição sobre Herança: https://twitter.com/theburningmonk/status/575306966551126017
+  * [Understanding Model-View-Controller](http://blog.codinghorror.com/understanding-model-view-controller/)
+  * [MVC](http://st-www.cs.illinois.edu/users/smarch/st-docs/mvc.html)
+  * [A cookbook fo using the Model-View-Controller User Interface paradigm in Smalltalk-80](http://www.ics.uci.edu/~redmiles/ics227-SQ04/papers/KrasnerPope88.pdf)
+  * [A Generation Lost in the Bazaar](https://queue.acm.org/detail.cfm?id=2349257&ref=fullrss)
+  * [Is it really "Complex"? Or did we just make it "Complicated"?](https://www.youtube.com/watch?v=ubaX1Smg6pY&=)
 
 ## Web
 
-* http://www.mysliderule.com/web-dev
+ * http://www.mysliderule.com/web-dev
  * [A Web é o BitTorrent, não o Facebook.](http://hapgood.us/2014/08/14/the-web-is-broken-and-we-should-fix-it)
 
 ## Metodologias para desenvolvimento de sistemas
@@ -198,6 +206,14 @@ http://bsi.uniriotec.br/disciplinas/as.html
     * http://highscalability.com/blog/2014/4/3/leslie-lamport-to-programmers-youre-doing-it-wrong.html
     * http://blogs.wsj.com/accelerators/2014/10/10/weekend-read-the-imminent-decentralized-computing-revolution/
   * [Over engineered: Pq vc precisa de um problema, antes da solução](http://nsainsbury.svbtle.com/java-developers)
+  * [Sobre a importância da automação do processo de deploy](http://dougseven.com/2014/04/17/knightmare-a-devops-cautionary-tale/)
+  * [Evolução das perguntas ao cliente](https://twitter.com/BenedictEvans/status/573160185470029824)
+    * As tech matures the questions evolve:
+    * What does it do?
+    * Who will do that?
+    * Who will want that?
+    * Who will like that?
+    * Does it make me smile?
 
 ## Organização do Time de desenvolvimento
 
@@ -217,7 +233,10 @@ http://bsi.uniriotec.br/disciplinas/as.html
   * http://codahale.com/how-to-safely-store-a-password/
   * [Undeterred by its own complete ignorance about how crypto works, @TheEconomist joins those advocating magical keys](https://twitter.com/segphault/status/556925012465446912?s=09)
     * Criptografia não é como uma fechadura de uma porta.
+  * [Writing buffer overflow exploits - a tutorial for beginners](http://www.eecis.udel.edu/~bmiller/cis459/2007s/readings/buff-overflow.html)
 
 ## Avaliação de desempenho
 
   * http://www.joelonsoftware.com/articles/fog0000000319.html
+
+
