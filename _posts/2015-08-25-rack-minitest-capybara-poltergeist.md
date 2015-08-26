@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Testando sua rack app com Capybara e Poltergist"
+title: "Testando sua rack app com Capybara e Poltergeist"
 tags:
 - beginner
 - dev
