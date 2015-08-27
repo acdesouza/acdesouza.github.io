@@ -1,6 +1,6 @@
-ruby "2.2.1"
-
 source 'https://rubygems.org'
-source 'http://gems.github.com'
 
+ruby "2.2.3"
+
+gem 'syck' # https://github.com/dtao/safe_yaml/issues/76
 gem 'github-pages'
