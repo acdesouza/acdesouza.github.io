@@ -10,7 +10,7 @@ title: BeyondClick Blog
       <h1 itemprop="name"><a href="{{ post.url }}" class="anchor">{{ post.title }}</a></h1>
       <p>
         <span itemprop="datePublished" content="{{ post.date | date: "%Y-%m-%d"}}">{{ post.date | date_to_string }}</span> |
-        <a href="{{ post.url }}#disqus_thread"></a>
+        <a href="{{ site.url }}{{ post.url }}#disqus_thread"></a>
       </p>
       <p itemprop="headline">
         {{ post.excerpt }}
