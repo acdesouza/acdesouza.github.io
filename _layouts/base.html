@@ -15,7 +15,7 @@
     <title>{{ page.title }}</title>
 
     <link rel="stylesheet" href="{{ site.url }}/stylesheets/base.css" />
-    {% for stylesheet in page.stylesheets %}
+    {% for stylesheet in layout.stylesheets %}
     <link rel="stylesheet" href="{{ site.url }}/stylesheets/{{ stylesheet }}.css" />
     {% endfor %}
     <link rel="stylesheet" href="{{ site.url }}/stylesheets/pygment_trac.css" />

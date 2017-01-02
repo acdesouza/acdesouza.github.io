@@ -1,29 +1,28 @@
-url: http://www.beyondclick.com.br
+title: BeyondClick
 name: BeyondClick
-description: Este blog serve para manter um histórico sobre o que aprendi, estou avaliando, ou usando, no meu trabalho atual e freelances.
-author: Antonio Carlos de Souza
+email: acdesouza@beyondclick.com.br
+description: >
+  Este blog serve para manter um histórico sobre o que aprendi, estou avaliando ou usando, no meu trabalho atual e freelances.
+url: http://www.beyondclick.com.br
+github_username: acdesouza
 
+# Build settings
 encoding: UTF-8
 include: ['_posts']
 exclude: ['Gemfile', 'Gemfile.lock', 'README.md']
 
 markdown: kramdown
 
-relative_permalinks: false
+relative_permalinks: false # Default on GitHub Pages: https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0
+show_downloads: true
 
-analytics:
-  google:
-    tracking_id: UA-10335208-1
+theme: jekyll-theme-minimal
 
-comments:
-  disqus:
-    short_name: acdesouza
+google_analytics: UA-10335208-1
+
+disqus:
+  short_name: acdesouza
 
 search:
   engine:
     google: 005749088562750127864:-md_5pvlzuu
-
-title: BeyondClick
-google_analytics: UA-10335208-1
-show_downloads: true
-theme: jekyll-theme-minimal
