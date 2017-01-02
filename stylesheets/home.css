@@ -71,8 +71,10 @@ section {
   padding-bottom:50px;
 }
 
-section .tags {
+.tags {
   width: 100%;
+
+  margin-left: -21px;
 }
 
 section ul {
