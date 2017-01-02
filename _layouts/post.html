@@ -35,9 +35,6 @@ stylesheets:
 
 <section class="comments">
   {% if page.comments %}
-    <div id="disqus_thread"></div>
-    {% include comments_providers/disqus module="embed" %}
-    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-    <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+    {% include comments_providers/disqus %}
   {% endif %}
 </section>
