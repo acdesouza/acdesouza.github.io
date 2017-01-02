@@ -22,3 +22,8 @@ comments:
 search:
   engine:
     google: 005749088562750127864:-md_5pvlzuu
+
+title: BeyondClick
+google_analytics: UA-10335208-1
+show_downloads: true
+theme: jekyll-theme-minimal
