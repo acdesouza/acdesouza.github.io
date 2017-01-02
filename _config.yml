@@ -26,3 +26,12 @@ disqus:
 search:
   engine:
     google: 005749088562750127864:-md_5pvlzuu
+
+defaults: # https://jekyllrb.com/docs/configuration/#front-matter-defaults
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts"
+    values:
+      layout: "post"
+      comments: true
