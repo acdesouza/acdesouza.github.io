@@ -22,4 +22,4 @@ title: BeyondClick Blog
   {% endfor %}
 </ul>
 
-{% include comments_providers/disqus module="count" %}
+<script id="dsq-count-scr" src="//{{ site.disqus.short_name }}.disqus.com/count.js" async></script>
