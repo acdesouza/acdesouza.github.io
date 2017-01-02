@@ -36,5 +36,7 @@ stylesheets:
 <section class="comments">
   {% if page.comments %}
     {% include comments_providers/disqus %}
+  {% else %}
+    <p>O povo tá meio calado... Nenhum comentário.</p>
   {% endif %}
 </section>
