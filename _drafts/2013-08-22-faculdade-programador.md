@@ -49,6 +49,8 @@ http://prog21.dadgum.com/210.html
   * Assumir que não sabemos a melhor forma de usá-lo: Demoramos umas décadas até ligarmos uma tela, por exemplo
     * http://blog.enfranchisedmind.com/2009/04/return-of-the-real-programmer/
   * (The Legend of John von Neumann)[http://stepanov.lk.net/mnemo/legende.html?hn]
+  * (As calculadoras da NASA)[http://meiobit.com/350003/katherine-johnson-sera-retratada-no-hidden-figures-filme-sobre-calculadoras-que-voce-nao-pode-perder/]
+  * (Margaret Hamilton e a Apolo 11)[http://meiobit.com/304884/margaret-hamilton-a-mulher-que-salvou-a-apollo-11/]
   * (Programmers Don't Read Books -- But You Should)[http://blog.codinghorror.com/programmers-dont-read-books-but-you-should/]
   * História do Unix:
     * O que tinhamos antes?
@@ -159,6 +161,7 @@ http://prog21.dadgum.com/210.html
   * [Visualização de Algoritimos](http://www.comp.nus.edu.sg/~stevenha/visualization/index.html)
 
 ## Verificação e validação
+  * [IBM Black Team](http://www.t3.org/tangledwebs/07/tw0706.html#)
 
 ### Validação
 
@@ -202,11 +205,13 @@ http://prog21.dadgum.com/210.html
 #### Command-line tools
   * [find, grep, sed, and awk](https://wilsonericn.wordpress.com/2011/08/25/find-grep-sed-and-awk/)
 
-## Linguagem de programação
+## Linguagem de programação e Compiladores
   * [Debunking the "expensive procedure call" myth](http://repository.readscheme.org/ftp/papers/ai-lab-pubs/AIM-443.pdf)
+  * http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf
 
 ### Compiladores
-  * http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf
+  * [Computer Science 164 - UCBerkeley](https://www.youtube.com/watch?v=MjR7tQTIWbc&list=PL3A16CFC42CA6EF4F)
+  * [CS1 Compilers - Stanford](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/info)
 
 ### Type Theory
   * [So you want to learn type theory...](http://purelytheoretical.com/sywtltt.html)
@@ -282,16 +287,17 @@ http://prog21.dadgum.com/210.html
   * [Sobre a importância da automação do processo de deploy](http://dougseven.com/2014/04/17/knightmare-a-devops-cautionary-tale/)
   * [Evolução das perguntas ao cliente](https://twitter.com/BenedictEvans/status/573160185470029824)
     * As tech matures the questions evolve:
-    * What does it do?
-    * Who will do that?
-    * Who will want that?
-    * Who will like that?
-    * Does it make me smile?
+      * What does it do?
+      * Who will do that?
+      * Who will want that?
+      * Who will like that?
+      * Does it make me smile?
 
 ## Organização do Time de desenvolvimento
 
   * [The Joel Test: 12 Steps to Better Code](http://www.joelonsoftware.com/articles/fog0000000043.html)
   * [Getting Things Done When You're Only a Grunt](http://www.joelonsoftware.com/articles/fog0000000332.html)
+  * [How Developers Stop Learning: Rise of the Expert Beginner](http://www.daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner/)
 
 ## Enterprisey bullshit
 
