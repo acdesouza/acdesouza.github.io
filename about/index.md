@@ -43,3 +43,9 @@ mas uma característica que não mudou, desde minha primeira oportunidade,
 
 Criei este blog para manter um histórico sobre
 o que aprendi, estou avaliando, ou usando, no meu trabalho atual e freelances.
+
+<script src="https://donatetools.com/widget.js" paypalExpress="false"></script>
+<iframe src="https://donatetools.com/embed/do-it-for-her"
+    name="donorbox"
+    allow="payment"
+    allowpaymentrequest="allowpaymentrequest" seamless="seamless" frameborder="0" scrolling="no" height="900px" width="100%" style="max-width: 500px; min-width: 250px; max-height:none!important"></iframe>
