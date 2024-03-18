@@ -8,7 +8,7 @@ github_username: acdesouza
 
 # Build settings
 encoding: UTF-8
-include: ['_posts']
+include: ['_posts', '.well-known']
 exclude: ['Gemfile', 'Gemfile.lock', 'README.md']
 
 markdown: kramdown
